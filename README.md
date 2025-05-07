@@ -28,7 +28,4 @@ The app fetches data from the OpenWeatherMap API and displays the weather detail
 
 # 🛠️ Technologies Used
 
-HTML
-CSS
-JavaScript (Fetch API)
-OpenWeatherMap API
+HTML, CSS, JavaScript (Fetch API), OpenWeatherMap API
