@@ -5,12 +5,19 @@ This is a simple weather application built with HTML, CSS, and JavaScript. It al
 # ✨ Features
 
 🔍 Search for a city’s weather.
+
 🌡️ Displays:
+
 🏙️ City name
+
 🌡️ Temperature (°C)
+
 💧 Humidity (%)
+
 🌬️ Wind speed (km/h)
+
 🖼️ Weather icon based on current conditions
+
 ⚠️ Shows an error message if the city name is invalid.
 
 # ⚙️ How It Works
